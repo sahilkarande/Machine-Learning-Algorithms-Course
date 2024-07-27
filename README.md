@@ -1,6 +1,6 @@
 # 🚀 Machine Learning Mastery: From Basics to Advanced
 
-![Machine Learning Thumbnail](path_to_your_thumbnail_image)
+![Machine Learning Thumbnail](Repository_poster.png)
 
 Welcome to **Machine Learning Mastery**, a comprehensive project designed to equip you with the skills needed to excel in the field of machine learning using Python. This project is tailored for enthusiasts ranging from beginners to seasoned developers, providing a detailed exploration of machine learning techniques and their practical applications.
 
