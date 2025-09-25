@@ -52,7 +52,7 @@ In this repository, you'll find a structured approach to learning machine learni
 - Professionals aiming to leverage machine learning in their business.
 
 ## Project Timeline
-- **Start Date**: July 27, 2024
+- **Start Date**: July 27, 2025
 
 ## Repository Structure
 The repository contains:
