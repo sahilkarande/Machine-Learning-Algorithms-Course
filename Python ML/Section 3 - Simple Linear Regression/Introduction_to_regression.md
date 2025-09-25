@@ -27,7 +27,7 @@
 - Useful when the relationship between inputs and output **cannot be represented by a straight line**.  
 - Example: Modeling population growth, chemical reactions, or stock prices.
 
-<img src="[https://github.com/sahilkarande/Machine-Learning-Algorithms-Course/blob/main/Python%20ML/Images/s2_nonlinear_regression.png](https://github.com/sahilkarande/Machine-Learning-Algorithms-Course/blob/main/Python%20ML/Images/s2_nonlinear_regression.png)" alt="Linear Regression" width="250" />
+<img src="https://github.com/sahilkarande/Machine-Learning-Algorithms-Course/blob/main/Python%20ML/Images/s2_nonlinear_regression.png" alt="Linear Regression" width="250" />
 
 
 ---
