@@ -16,7 +16,7 @@ In Machine Learning, **Supervised Learning** uses **labeled training data** — 
 2. The model learns the relationship between **inputs and labels**.  
 3. For new test data, the model predicts whether the input belongs to **square** or **triangle**.  
 
-![Supervised Learning](../images/s1_supervised_learning.png)
+![Supervised Learning](https://github.com/sahilkarande/Machine-Learning-Algorithms-Course/blob/main/Python%20ML/Images/s1_supervised_learning.png)
 
 ---
 

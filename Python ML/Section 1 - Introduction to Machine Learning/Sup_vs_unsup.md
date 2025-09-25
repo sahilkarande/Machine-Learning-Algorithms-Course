@@ -15,6 +15,12 @@ These concepts can also be described mathematically, but here we’ll focus on t
 ---
 
 ## 🧩 Example: Unsupervised Learning
+
+![Unsupervised Learning](https://github.com/sahilkarande/Machine-Learning-Algorithms-Course/blob/main/Python%20ML/Images/s1_sup_vs_unsup.png)
+
+
+
+
 Imagine you are given a bunch of **gray dots** scattered on a 2D plane.  
 Your job is to design an algorithm that can **detect clusters**.
 

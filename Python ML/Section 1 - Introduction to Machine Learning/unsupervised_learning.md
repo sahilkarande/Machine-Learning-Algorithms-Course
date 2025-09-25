@@ -17,7 +17,7 @@ Example: If provided with a dataset of animal images, the algorithm may group **
 2. The algorithm analyzes similarities and differences.  
 3. Data is grouped into **clusters** (e.g., dogs vs cats).  
 
-![Unsupervised Learning](../images/s1_unsupervised_learning.png)
+![Unsupervised Learning](https://github.com/sahilkarande/Machine-Learning-Algorithms-Course/blob/main/Python%20ML/Images/s1_unsupervised_learning.png)
 
 ---
 
@@ -32,5 +32,3 @@ Example: If provided with a dataset of animal images, the algorithm may group **
 
 ## 📌 Key Point
 Unsupervised learning is especially valuable when **labeled data is scarce or expensive to obtain**, as it allows machines to **discover hidden patterns automatically**.  
-
----
