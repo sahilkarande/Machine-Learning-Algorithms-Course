@@ -25,13 +25,13 @@
 - The **output variable is modeled as a non-linear function** of the input variables.  
 - Useful when the relationship between inputs and output **cannot be represented by a straight line**.  
 - Example: Modeling population growth, chemical reactions, or stock prices.
-
+![Linear Regression](https://github.com/sahilkarande/Machine-Learning-Algorithms-Course/blob/main/Python%20ML/Images/s2_nonlinear_regression.png)
 ---
 
 ## 📌 Key Point
 - **Linear regression** → straight-line relationship.  
 - **Non-linear regression** → complex, curved relationships.  
 
-![Linear Regression](https://github.com/sahilkarande/Machine-Learning-Algorithms-Course/blob/main/Python%20ML/Images/s2_nonlinear_regression.png)
+
 
 ---
