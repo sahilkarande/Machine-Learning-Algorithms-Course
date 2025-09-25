@@ -17,7 +17,9 @@
 2. **Multiple Linear Regression**  
    - Uses **more than one input variable** to predict the output.  
    - Example: Predicting house price based on square footage, number of bedrooms, and age of the house.
-![Linear Regression](https://github.com/sahilkarande/Machine-Learning-Algorithms-Course/blob/main/Python%20ML/Images/s2_linear_regression.png =300px)
+
+![Linear Regression](https://github.com/sahilkarande/Machine-Learning-Algorithms-Course/blob/main/Python%20ML/Images/s2_nonlinear_regression.png)
+
 
 
 ---
