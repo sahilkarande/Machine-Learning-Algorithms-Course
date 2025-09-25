@@ -17,7 +17,7 @@
 2. **Multiple Linear Regression**  
    - Uses **more than one input variable** to predict the output.  
    - Example: Predicting house price based on square footage, number of bedrooms, and age of the house.
-<img src="https://github.com/sahilkarande/Machine-Learning-Algorithms-Course/blob/main/Python%20ML/Images/s2_nonlinear_regression.png" alt="Linear Regression" width="250" />
+<img src="https://github.com/sahilkarande/Machine-Learning-Algorithms-Course/blob/main/Python%20ML/Images/s2_linear_regression.png" alt="Linear Regression" width="250" />
 
 
 ---
@@ -26,7 +26,10 @@
 - The **output variable is modeled as a non-linear function** of the input variables.  
 - Useful when the relationship between inputs and output **cannot be represented by a straight line**.  
 - Example: Modeling population growth, chemical reactions, or stock prices.
-![Linear Regression](https://github.com/sahilkarande/Machine-Learning-Algorithms-Course/blob/main/Python%20ML/Images/s2_nonlinear_regression.png)
+
+<img src="[https://github.com/sahilkarande/Machine-Learning-Algorithms-Course/blob/main/Python%20ML/Images/s2_nonlinear_regression.png](https://github.com/sahilkarande/Machine-Learning-Algorithms-Course/blob/main/Python%20ML/Images/s2_nonlinear_regression.png)" alt="Linear Regression" width="250" />
+
+
 ---
 
 ## 📌 Key Point
